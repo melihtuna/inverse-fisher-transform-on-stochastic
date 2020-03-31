@@ -1,0 +1,6 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/InverseFisherTransformOnStochastic/.vs/InverseFisherTransformOnStochastic/v16/Server/sqlite3
+/.vs

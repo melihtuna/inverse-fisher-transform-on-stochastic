@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29905.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InverseFisherTransformOnStochastic", "InverseFisherTransformOnStochastic\InverseFisherTransformOnStochastic.csproj", "{663A82EB-BD33-4BCD-B1F6-12B1A104981C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{663A82EB-BD33-4BCD-B1F6-12B1A104981C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{663A82EB-BD33-4BCD-B1F6-12B1A104981C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{663A82EB-BD33-4BCD-B1F6-12B1A104981C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{663A82EB-BD33-4BCD-B1F6-12B1A104981C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {835E0B7D-7E38-4044-943D-55EFE57CA43B}
+	EndGlobalSection
+EndGlobal
