@@ -12,6 +12,10 @@ About INVERSE FISHER TRANSFORM: The purpose of technical indicators is to help w
 Whereas the Fisher Transform is expansive, the Inverse Fisher Transform is compressive. The Inverse Fisher Transform is found by solving equation 1 for x in terms of y. The Inverse Fisher Transform is:
 
 The transfer response of the Inverse Fisher Transform is shown in Figure 1. If the input falls between –0.5 and +0.5, the output is nearly the same as the input. For larger absolute values (say, larger than 2), the output is compressed to be no larger than unity . The result of using the Inverse Fisher Transform is that the output has a very high probability of being either +1 or –1. This bipolar probability distribution makes the Inverse Fisher Transform ideal for generating an indicator that provides clear buy and sell signals.</Description>
+    <PackageProjectUrl>https://github.com/melihtuna/inverse-fisher-transform-on-stochastic</PackageProjectUrl>
+    <AssemblyVersion>1.0.0.1</AssemblyVersion>
+    <FileVersion>1.0.0.1</FileVersion>
+    <Version>1.0.1</Version>
   </PropertyGroup>
 
   <ItemGroup>
