@@ -3112,7 +3112,7 @@
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
-    "version": "1.0.1",
+    "version": "1.0.2",
     "restore": {
       "projectUniqueName": "C:\\Users\\Melih\\Source\\Repos\\inverse-fisher-transform-on-stochastic\\InverseFisherTransformOnStochastic\\InverseFisherTransformOnStochastic\\InverseFisherTransformOnStochastic.csproj",
       "projectName": "InverseFisherTransformOnStochastic",
