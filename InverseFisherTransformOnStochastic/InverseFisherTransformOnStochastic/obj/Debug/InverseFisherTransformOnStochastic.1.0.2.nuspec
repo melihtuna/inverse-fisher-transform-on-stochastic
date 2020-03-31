@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>InverseFisherTransformOnStochastic</id>
+    <version>1.0.2</version>
+    <authors>Melih Tuna</authors>
+    <owners>Melih Tuna</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+    <projectUrl>https://github.com/melihtuna/inverse-fisher-transform-on-stochastic</projectUrl>
+    <description>Inverse Fisher Transform on STOCHASTIC
+
+About John EHLERS: From California, USA, John is a veteran trader. With 35 years trading experience he has seen it all. John has an engineering background that led to his technical approach to trading ignoring fundamental analysis (with one important exception). John strongly believes in cycles. He’d rather exit a trade when the cycle ends or a new one starts. He uses the MESA principle to make predictions about cycles in the market and trades one hundred percent automatically. In the show John reveals: • What is more appropriate than trading individual stocks • The one thing he relies upon in his approach to the market • The detail surrounding his unique trading style • What important thing underpins the market and gives every trader an edge
+
+About INVERSE FISHER TRANSFORM: The purpose of technical indicators is to help with your timing decisions to buy or sell. Hopefully, the signals are clear and unequivocal. However, more often than not your decision to pull the trigger is accompanied by crossing your fingers. Even if you have placed only a few trades you know the drill. In this article I will show you a way to make your oscillator-type indicators make clear black-or-white indication of the time to buy or sell. I will do this by using the Inverse Fisher Transform to alter the Probability Distribution Function ( PDF ) of your indicators. In the past12 I have noted that the PDF of price and indicators do not have a Gaussian, or Normal, probability distribution. A Gaussian PDF is the familiar bell-shaped curve where the long “tails” mean that wide deviations from the mean occur with relatively low probability. The Fisher Transform can be applied to almost any normalized data set to make the resulting PDF nearly Gaussian, with the result that the turning points are sharply peaked and easy to identify. The Fisher Transform is defined by the equation
+
+Whereas the Fisher Transform is expansive, the Inverse Fisher Transform is compressive. The Inverse Fisher Transform is found by solving equation 1 for x in terms of y. The Inverse Fisher Transform is:
+
+The transfer response of the Inverse Fisher Transform is shown in Figure 1. If the input falls between –0.5 and +0.5, the output is nearly the same as the input. For larger absolute values (say, larger than 2), the output is compressed to be no larger than unity . The result of using the Inverse Fisher Transform is that the output has a very high probability of being either +1 or –1. This bipolar probability distribution makes the Inverse Fisher Transform ideal for generating an indicator that provides clear buy and sell signals.</description>
+    <copyright>Melih Tuna</copyright>
+    <dependencies>
+      <group targetFramework=".NETStandard2.0">
+        <dependency id="Trady.Analysis" version="3.2.8" exclude="Build,Analyzers" />
+        <dependency id="Trady.Core" version="3.2.9" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\Melih\Source\Repos\inverse-fisher-transform-on-stochastic\InverseFisherTransformOnStochastic\InverseFisherTransformOnStochastic\bin\Debug\netstandard2.0\InverseFisherTransformOnStochastic.dll" target="lib\netstandard2.0\InverseFisherTransformOnStochastic.dll" />
+  </files>
+</package>
