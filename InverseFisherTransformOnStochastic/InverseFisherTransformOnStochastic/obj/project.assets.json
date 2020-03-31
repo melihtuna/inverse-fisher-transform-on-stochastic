@@ -3114,11 +3114,11 @@
   "project": {
     "version": "1.0.1",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Melih\\source\\repos\\melihtuna\\inverse-fisher-transform-on-stochastic\\InverseFisherTransformOnStochastic\\InverseFisherTransformOnStochastic\\InverseFisherTransformOnStochastic.csproj",
+      "projectUniqueName": "C:\\Users\\Melih\\Source\\Repos\\inverse-fisher-transform-on-stochastic\\InverseFisherTransformOnStochastic\\InverseFisherTransformOnStochastic\\InverseFisherTransformOnStochastic.csproj",
       "projectName": "InverseFisherTransformOnStochastic",
-      "projectPath": "C:\\Users\\Melih\\source\\repos\\melihtuna\\inverse-fisher-transform-on-stochastic\\InverseFisherTransformOnStochastic\\InverseFisherTransformOnStochastic\\InverseFisherTransformOnStochastic.csproj",
+      "projectPath": "C:\\Users\\Melih\\Source\\Repos\\inverse-fisher-transform-on-stochastic\\InverseFisherTransformOnStochastic\\InverseFisherTransformOnStochastic\\InverseFisherTransformOnStochastic.csproj",
       "packagesPath": "C:\\Users\\Melih\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Melih\\source\\repos\\melihtuna\\inverse-fisher-transform-on-stochastic\\InverseFisherTransformOnStochastic\\InverseFisherTransformOnStochastic\\obj\\",
+      "outputPath": "C:\\Users\\Melih\\Source\\Repos\\inverse-fisher-transform-on-stochastic\\InverseFisherTransformOnStochastic\\InverseFisherTransformOnStochastic\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

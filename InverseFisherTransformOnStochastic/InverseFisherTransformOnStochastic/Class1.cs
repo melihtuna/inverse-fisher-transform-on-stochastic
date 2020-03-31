@@ -24,7 +24,7 @@ namespace InverseFisherTransformOnStochastic
             //hline(0.5, color = red)
             //hline(-0.5, color = green)
 
-            if (barListesi.Count <= 360)
+            if (barListesi.Count > 360)
             {
                 //stoch(close, high, low, stochlength=5)
                 var calcStoch = new Stochastics.Fast(barListesi, stochUzunlugu, stochUzunlugu).Compute();
